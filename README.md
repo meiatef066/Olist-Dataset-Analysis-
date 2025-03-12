@@ -1,4 +1,5 @@
-# Olist Dataset Analysis  
+# Olist Dataset Analysis 
+- used technology : sql - power-pi
 
 ## Overview  
 This project analyzes the **[[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce`)]** , focusing on customer behavior, sales trends, product performance, and seller insights.  
