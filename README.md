@@ -1,7 +1,7 @@
 # Olist Dataset Analysis  
 
 ## Overview  
-This project analyzes the **[[Brazilian E-Commerce Public Dataset by Olist](https://www.canva.com/design/DAGMC5w9X48/qP88fLvHr-JgDLcvO9n0LQ/edit?utm_content=DAGMC5w9X48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]** , focusing on customer behavior, sales trends, product performance, and seller insights.  
+This project analyzes the **[[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce`)]** , focusing on customer behavior, sales trends, product performance, and seller insights.  
 
 ## Process Followed  
 1. **Understanding the Data**  
@@ -50,8 +50,19 @@ This project analyzes the **[[Brazilian E-Commerce Public Dataset by Olist](http
 - **Customer Experience:** Address delays in delivery to improve reviews.  
 - **Payment Flexibility:** Leverage installment trends to optimize pricing strategies.  
 
-## Visualizations  
+## Visualizations 
+
 Refer to the **[[presentation slides](https://www.canva.com/design/DAGMC5w9X48/qP88fLvHr-JgDLcvO9n0LQ/edit?utm_content=DAGMC5w9X48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]** for charts and graphs illustrating key findings.  
+
+## (power pi)
+### Order Reviews 
+### Payment Methods
+### Order Status Distribution 
+### Top Ordered Product Categories  
+### Top Revenue-Generating Product Categories
+![order analysis](https://github.com/user-attachments/assets/3a6944d2-93a6-4eaa-a033-3c83b5687cef)
+
+
 
 ---
 
