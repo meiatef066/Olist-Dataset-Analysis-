@@ -58,6 +58,7 @@ Refer to the **[[presentation slides](https://www.canva.com/design/DAGMC5w9X48/q
 - Order Status Distribution 
 - Top Ordered Product Categories  
 - Top Revenue-Generating Product Categories
+  
 ![order analysis](https://github.com/user-attachments/assets/3a6944d2-93a6-4eaa-a033-3c83b5687cef)
 
 
