@@ -1,7 +1,7 @@
 # Olist Dataset Analysis  
 
 ## Overview  
-This project analyzes the **[(Brazilian E-Commerce Public Dataset by Olist][(https://www.canva.com/design/DAGMC5w9X48/qP88fLvHr-JgDLcvO9n0LQ/edit?utm_content=DAGMC5w9X48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]** , focusing on customer behavior, sales trends, product performance, and seller insights.  
+This project analyzes the **[(Brazilian E-Commerce Public Dataset by Olist](https://www.canva.com/design/DAGMC5w9X48/qP88fLvHr-JgDLcvO9n0LQ/edit?utm_content=DAGMC5w9X48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]** , focusing on customer behavior, sales trends, product performance, and seller insights.  
 
 ## Process Followed  
 1. **Understanding the Data**  
