@@ -44,7 +44,6 @@ This project analyzes the **[[Brazilian E-Commerce Public Dataset by Olist](http
 | `olist_geolocation_dataset` | Zip codes and coordinates. |
 | `olist_sellers_dataset` | Seller IDs and locations. |
 
-
 ## Visualizations 
 
 Refer to the **[[presentation slides](https://www.canva.com/design/DAGMC5w9X48/qP88fLvHr-JgDLcvO9n0LQ/edit?utm_content=DAGMC5w9X48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]** for charts and graphs illustrating key findings.  
@@ -67,8 +66,6 @@ Refer to the **[[presentation slides](https://www.canva.com/design/DAGMC5w9X48/q
 - **Inventory Management:** Ensure high-revenue products remain in stock.  
 - **Customer Experience:** Address delays in delivery to improve reviews.  
 - **Payment Flexibility:** Leverage installment trends to optimize pricing strategies.  
-
-
 
 ---
 
